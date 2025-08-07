@@ -40,7 +40,6 @@ dependencies = [
     "numpy>=1.18.5",
     "rich>=10.4.0",
     "scikit-learn>=0.22.2",
-    "sentence-transformers>=0.3.8"
 ]
 
 [project.optional-dependencies]
